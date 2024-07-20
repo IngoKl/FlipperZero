@@ -3,6 +3,7 @@ Version: 1
 # 
 # IR codes to control PixMob wristbands used during the Eras Tour (2024) in Germany, Gelsenkirchen.
 # Heavily inspired by Dani Weidman's work <https://github.com/danielweidman/flipper-pixmob-ir-codes> <https://github.com/danielweidman/pixmob-ir-reverse-engineering>
+# Tested on a PixMob, Mod.#: X2
 #
 name: WHITE
 type: raw
