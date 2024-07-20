@@ -1,0 +1,78 @@
+Filetype: IR signals file
+Version: 1
+# 
+# IR codes to control PixMob wristbands used during the Eras Tour (2024) in Germany, Gelsenkirchen.
+# Heavily inspired by Dani Weidman's work <https://github.com/danielweidman/flipper-pixmob-ir-codes> <https://github.com/danielweidman/pixmob-ir-reverse-engineering>
+#
+name: WHITE
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 700 700 700 2100 1400 700 700 2800 700 1400 700 700 700 2800 1400 1400 700 2100 700 700 700 2100 700 700
+#
+name: RED
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 1400 1400 700 700 700 1400 700 2800 700 2100 1400 700 700 700 700 1400 1400 2800 1400 2800 700 700
+#
+name: GREEN
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 1400 1400 700 700 700 700 1400 2800 700 1400 700 1400 700 1400 700 1400 1400 2800 1400 2800 700
+#
+name: GREEN 2
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 700 700 700 700 1400 1400 1400 2800 700 1400 700 1400 700 1400 700 700 700 1400 700 2100 700 1400 700 1400 700
+#
+name: GREEN 3
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 700 700 700 700 1400 1400 1400 2800 700 2100 700 700 700 1400 700 1400 700 700 700 2100 1400 2800 700
+#
+name: BLUE
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 700 700 700 2100 1400 700 700 2800 700 1400 700 700 700 1400 1400 700 700 1400 700 700 700 700 700 700 700 2100 700
+#
+name: BLUE 2
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 700 700 700 2100 1400 700 700 2800 700 1400 700 700 700 1400 700 700 700 700 700 700 700 700 1400 1400 700 2100 700
+#
+name: YELLOW
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 1400 1400 700 700 700 700 1400 2800 700 2100 700 700 700 1400 700 1400 1400 2800 1400 2800 700
+#
+name: YELLOW 2
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 700 700 700 2100 1400 700 700 2800 700 1400 700 700 700 2800 1400 1400 700 2100 700 1400 700 1400 700
+#
+name: ORANGE
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 700 700 700 700 1400 1400 1400 2800 700 2100 700 700 700 1400 700 700 700 1400 700 2100 1400 2800 700
+#
+name: TURQUOISE
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 700 700 700 700 1400 1400 1400 2800 700 1400 700 700 1400 1400 700 1400 1400 2800 700 700 700 2100 700
+#
+name: MAGENTA
+type: raw
+frequency: 38000
+duty_cycle: 0.33
+data: 700 700 700 700 1400 1400 1400 2800 700 2100 1400 2100 700 700 700 700 1400 2100 700 700 700 2100 700
+#
